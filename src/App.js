@@ -2,13 +2,14 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import './App.css';
 import ColorMatch from './ColorMatch';
+import ColorMatchImage from "./assets/images/colour-match-card.jpg";
 
 function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<HomePage />} />
-        <Route path="/color-match" element={<ColorMatch />} />
+        <Route path="/kids-game-zone/" element={<HomePage />} />
+        <Route path="/kids-game-zone/color-match" element={<ColorMatch />} />
       </Routes>
     </Router>
   );
@@ -17,10 +18,10 @@ function App() {
 function HomePage() {
   return (
     <div className="home-page">
-      <h1 className="title">Welcome to Kids Game Zone!</h1>
-      <div className="game-card" onClick={() => window.location.href = '/color-match'}>
+      <h1 className="title">TEST - Welcome to Kids Game Zone!</h1>
+      <div className="game-card" onClick={() => window.location.href = '/kids-game-zone/color-match'}>
         <div className="card-content">
-          <img src="https://via.placeholder.com/200" alt="Color Match Game" className="game-card-image" />
+          <img src={ColorMatchImage} alt="Color Match Game" className="game-card-image" />
           <h2>Color Match Game</h2>
         </div>
       </div>
