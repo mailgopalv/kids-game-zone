@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kids-game-zone/static/css/main.50be0916.css",
-    "main.js": "/kids-game-zone/static/js/main.8ac27808.js",
+    "main.js": "/kids-game-zone/static/js/main.3e02638c.js",
     "static/js/453.0f34479f.chunk.js": "/kids-game-zone/static/js/453.0f34479f.chunk.js",
     "index.html": "/kids-game-zone/index.html",
     "main.50be0916.css.map": "/kids-game-zone/static/css/main.50be0916.css.map",
-    "main.8ac27808.js.map": "/kids-game-zone/static/js/main.8ac27808.js.map",
+    "main.3e02638c.js.map": "/kids-game-zone/static/js/main.3e02638c.js.map",
     "453.0f34479f.chunk.js.map": "/kids-game-zone/static/js/453.0f34479f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.50be0916.css",
-    "static/js/main.8ac27808.js"
+    "static/js/main.3e02638c.js"
   ]
 }
