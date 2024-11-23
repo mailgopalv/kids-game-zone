@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/kids-game-zone/static/css/main.50be0916.css",
-    "main.js": "/kids-game-zone/static/js/main.3e02638c.js",
+    "main.js": "/kids-game-zone/static/js/main.ae2cc29d.js",
     "static/js/453.0f34479f.chunk.js": "/kids-game-zone/static/js/453.0f34479f.chunk.js",
+    "static/media/colour-match-card.jpg": "/kids-game-zone/static/media/colour-match-card.902228aca2d38242d1a3.jpg",
     "index.html": "/kids-game-zone/index.html",
     "main.50be0916.css.map": "/kids-game-zone/static/css/main.50be0916.css.map",
-    "main.3e02638c.js.map": "/kids-game-zone/static/js/main.3e02638c.js.map",
+    "main.ae2cc29d.js.map": "/kids-game-zone/static/js/main.ae2cc29d.js.map",
     "453.0f34479f.chunk.js.map": "/kids-game-zone/static/js/453.0f34479f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.50be0916.css",
-    "static/js/main.3e02638c.js"
+    "static/js/main.ae2cc29d.js"
   ]
 }
